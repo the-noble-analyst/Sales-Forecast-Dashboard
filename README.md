@@ -24,7 +24,7 @@ Sample retail data inspired by the Superstore dataset (commonly used for analyti
 
 ## 1️⃣ Sales Forecasting Dashboard – 15 Days
 
-<img src="https://github.com/your-username/project-name/blob/main/Sales%20Forecasting.png" width="600" />
+<img src="https://github.com/the-noble-analyst/Sales-Forecast-Dashboard/blob/main/Sales%20Forecasting.png" />
 
 **Features:**
 - Forecast of sales for the next 15 days using time series visualization
@@ -39,7 +39,7 @@ Projected a sales dip post-December followed by stable recovery—helping with s
 
 ## 2️⃣ SuperStore Sales Dashboard
 
-<img src=["https://github.com/your-username/project-name/blob/main/Sales%20Dashboard.png" width="600"](https://github.com/the-noble-analyst/Sales-Forecast-Dashboard/blob/main/Sales%20Dashboard.png"] />
+<img src="https://github.com/the-noble-analyst/Sales-Forecast-Dashboard/blob/main/Sales%20Dashboard.png" />
 
 **Features:**
 - KPIs: Total Sales, Profit, Quantity, Avg. Shipping Days
@@ -62,21 +62,12 @@ Western region performs best in both sales and profit. Technology category and p
 
 ---
 
-## 🔗 How to View the Dashboard
-
-> ⚠️ Built on Power BI Desktop (free version). Since online hosting requires Power BI Pro, please preview using the screenshots or download the `.pbix` file (optional if uploaded later).
-
-- [📄 View Sales Forecasting PDF](https://drive.google.com/your-link-here)
-- [📄 View Sales Dashboard PDF](https://drive.google.com/your-link-here)
-
----
 
 ## 📌 About Me
 
 **Nabeel Siddiqui**  
 Aspiring Data Analyst with a background in CSE and a strong focus on Power BI, SQL, and Python.  
 📍 Bhopal, India | Open to remote or relocation opportunities  
-📫 [LinkedIn Profile](https://www.linkedin.com/in/your-link) *(optional)*
 
 ---
 
