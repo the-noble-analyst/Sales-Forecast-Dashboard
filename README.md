@@ -39,7 +39,7 @@ Projected a sales dip post-December followed by stable recovery—helping with s
 
 ## 2️⃣ SuperStore Sales Dashboard
 
-<img src=["https://github.com/your-username/project-name/blob/main/Sales%20Dashboard.png" width="600"](https://github.com/the-noble-analyst/Sales-Forecast-Dashboard/blob/main/Sales%20Dashboard.png"](https://github.com/the-noble-analyst/Sales-Forecast-Dashboard/blob/main/Sales%20Dashboard.png) />
+<img src=["https://github.com/your-username/project-name/blob/main/Sales%20Dashboard.png" width="600"](https://github.com/the-noble-analyst/Sales-Forecast-Dashboard/blob/main/Sales%20Dashboard.png"] />
 
 **Features:**
 - KPIs: Total Sales, Profit, Quantity, Avg. Shipping Days
